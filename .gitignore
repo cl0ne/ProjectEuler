@@ -1,0 +1,13 @@
+.DS_Store
+[Tt]humbs.db
+[Dd]esktop.ini
+*.bak
+*.ncb
+*.log
+*.user
+*.suo
+*~
+.directory
+*.orig
+*.o
+*.out
